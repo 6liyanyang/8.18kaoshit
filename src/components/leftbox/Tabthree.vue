@@ -1,6 +1,6 @@
 <template>
     <div class="box">
-        <h2>今天</h2>
+        <h2>最近7天</h2>
         <br>
         <div>
             <ul class="ul1">
